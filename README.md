@@ -1,2 +1,2 @@
 # UTEC---Tareas
-Repor para las tareas de UTEC
+Repo para las tareas de UTEC
